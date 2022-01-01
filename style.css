@@ -1,3 +1,18 @@
-* { color : red; }
-#otsikko { color : blue; }
-li { color : violet;}
+* {
+  color : #555;
+  background-color : #eee;
+}
+.otsikko {
+  color : #333;
+}
+body {
+  margin : 0 auto;
+  text-align : center;
+  max-width : 40vw;
+  font-family : "helvetica", serif;
+  
+}
+p {
+  line-height : 2;
+  padding : 2em;
+}
